@@ -84,7 +84,7 @@ a {
   border-bottom-left-radius: 1rem;
 }
 
-.nav .nav-brand {
+.nav .nav-brand a {
   font-weight: bold;
   font-size: xx-large;
 }
